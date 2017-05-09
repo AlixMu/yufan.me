@@ -4,6 +4,8 @@ date: 2017-05-03 21:27:50
 comments: false
 ---
 
+<hr />
+
 ![](https://cat.yufan.me/cats/20130101180005.jpg)
 
 2007年，我开始写Blog，第一个Blog名字叫做“雨帆”。
